@@ -1,6 +1,6 @@
 <p align="left">
 <div id="header" align="center">
-  <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47x98733k61jxrvlcj5amt9uozuzya7r31jumsxzfy&rid=giphy.gif&ct=g" width="80%"align="center" height="300px"/>
+<img align="center" width="400px" src="https://media1.giphy.com/media/fvx95jkua5th3YeThr/giphy.gif?cid=ecf05e471g6umypl8n0f6yz52tpba10dp97pjxkn3htx1vrc&rid=giphy.gif&ct=s">
 </div>
 <div id="badges" align="center">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -16,7 +16,7 @@
 ></h2>
 <!--
 second giff-->
-<img align="center" width="300px" src="https://media1.giphy.com/media/fvx95jkua5th3YeThr/giphy.gif?cid=ecf05e471g6umypl8n0f6yz52tpba10dp97pjxkn3htx1vrc&rid=giphy.gif&ct=s">
+
 <hr>
 
 <!--
@@ -24,7 +24,7 @@ second giff-->
 <h2>about me</h2> 
 <h2><i>I am a full stack Developer<img width="30px"src="https://media.istockphoto.com/id/1127371716/vector/nigeria-contour-country-flag-vector-flat-icon.jpg?s=612x612&w=0&k=20&c=3pKcawPsc1GyQpTFfo-kGV2d5Z-mPwLHFZkJ_j5ETjs="> From nigeria</i></h2> 
 
- 🔭 I’m currently working on projects<br>
+ 🔭 I’m currently working on becoming a software engineer<br>
  🌱 I’m currently learning python<br>
  👯 I’m looking to collaborate on projects<br>
  💬 Ask me about anything <br>
@@ -34,7 +34,7 @@ second giff-->
  <b>
 language and tools</b>
 
-<div><img src="https://github.com/devicons/devicon/blob/master/icons/php/pjp-original.svg"width="40" height="40" title="php programming language"/>
+<div><img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"width="40" height="40" title="php programming language"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"width="40" height="40" title="python programming language"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"width="40" height="40" title="c programming language"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"width="40" height="40"title="sass"/>
