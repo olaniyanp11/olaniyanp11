@@ -22,15 +22,29 @@ second giff-->
 <!--
 **olaniyanp11/olaniyanp11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 <h2>about me</h2> 
-<h2><i>I am a full stack Developer &#127475;&#127468; From nigeria</i></h2> 
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<h2><i>I am a full stack Developer<img width="30px"src="https://media.istockphoto.com/id/1127371716/vector/nigeria-contour-country-flag-vector-flat-icon.jpg?s=612x612&w=0&k=20&c=3pKcawPsc1GyQpTFfo-kGV2d5Z-mPwLHFZkJ_j5ETjs="> From nigeria</i></h2> 
+
+ 🔭 I’m currently working on projects<br>
+ 🌱 I’m currently learning python<br>
+ 👯 I’m looking to collaborate on projects<br>
+ 💬 Ask me about anything <br>
+ 📫 How to reach me <img  href="http://wa.me/+2349039449932" src="https://www.shutterstock.com/image-vector/green-button-phone-bubble-chat-260nw-1136309198.jpg" width="30px"><br>
+ ⚡ Fun fact: i can bring your dream project to life <br>
+ <hr>
+ <b>
+language and tools</b>
+
+<div><img src="https://github.com/devicons/devicon/blob/master/icons/php/pjp-original.svg"width="40" height="40" title="php programming language"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"width="40" height="40" title="python programming language"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"width="40" height="40" title="c programming language"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"width="40" height="40"title="sass"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
+
+ <!--
 -->
 
