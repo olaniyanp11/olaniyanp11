@@ -20,10 +20,10 @@ second giff-->
 <hr>
 
 <!--
-**olaniyanp11/olaniyanp11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+**olaniyanp11/olaniyanp11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+<h2>about me</h2> 
+<h2><i>I am a full stack Developer &#127475;&#127468; From nigeria</i></h2> 
+<!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
