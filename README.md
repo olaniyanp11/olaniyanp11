@@ -1,6 +1,6 @@
 <p align="left">
 <div id="header" align="center">
-  <img src="https://media3.giphy.com/media/YuKbGGIYMXemhnub3q/200w.webp?cid=ecf05e47s0gt1dk19zm1o9ar8i9hl4sxc52yarlkom2ag5n4&rid=200w.webp&ct=s" width="200"/>
+  <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47x98733k61jxrvlcj5amt9uozuzya7r31jumsxzfy&rid=giphy.gif&ct=g" width="80%"align="center" height="300px"/>
 </div>
 <div id="badges" align="center">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
