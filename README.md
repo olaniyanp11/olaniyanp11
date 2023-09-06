@@ -32,7 +32,7 @@ second giff-->
  🌱 I’m currently learning software engineering<br>
  👯 I’m looking to collaborate on front-end projects<br>
  💬 Ask me about anything <br>
- 📫 How to reach me <img  href="http://wa.me/+2349039449932" src="https://www.shutterstock.com/image-vector/green-button-phone-bubble-chat-260nw-1136309198.jpg" width="30px"><br>
+ 📫 How to reach me[https://wa.me/+2349039449932 <img  href="http://wa.me/+2349039449932" src="https://www.shutterstock.com/image-vector/green-button-phone-bubble-chat-260nw-1136309198.jpg" width="30px">]<br>
  ⚡ Fun fact: i can bring your dream project to life <br>
  <hr>
   </span>
