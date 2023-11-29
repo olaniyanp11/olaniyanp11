@@ -39,7 +39,7 @@ second giff-->
  <b>
 language and tools</b>
 
-<div><img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"width="40" height="40" title="php programming language"/>
+<div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"width="40" height="40" title="python programming language"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"width="40" height="40" title="c programming language"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"width="40" height="40"title="sass"/>
