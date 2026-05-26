@@ -9,7 +9,7 @@
 
 ---
 
-<img align="right" width="180px" src="https://media1.giphy.com/media/fvx95jkua5th3YeThr/giphy.gif" />
+
 
 ### 👨🏾‍💻 Olaniyan Pelumi Isreal
 
@@ -53,7 +53,7 @@ I'm on a mission to become a well-rounded software engineer. I love building thi
 ## 🔥 GitHub Streak & Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=olaniyanp11&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -62,7 +62,7 @@ I'm on a mission to become a well-rounded software engineer. I love building thi
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=olaniyanp11&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
 
 ---
@@ -70,7 +70,7 @@ I'm on a mission to become a well-rounded software engineer. I love building thi
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=olaniyanp11&theme=tokyonight&no-frame=true&row=1&column=7"/>
 </p>
 
 ---
@@ -78,7 +78,7 @@ I'm on a mission to become a well-rounded software engineer. I love building thi
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=olaniyanp11&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ### 📊 GitHub Stats
