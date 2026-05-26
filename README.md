@@ -1,5 +1,7 @@
 <div align="center">
-
+<!-- HEADER GIF -->
+<img width="420" src="https://media.giphy.com/media/fvx95jkua5th3YeThr/giphy.gif" />
+  
 <!-- Typing animation header -->
 <img src="https://readme-typing-svg.demolab.com/?lines=Hey+there,+I'm+Pelumi+👋;Full-Stack+Developer+from+Nigeria+🇳🇬;Always+building,+always+learning.&font=Fira+Code&center=true&width=600&height=70&duration=4000&pause=1000&color=7F77DD" />
 
@@ -16,7 +18,7 @@
 
 > *"I can bring your dream project to life."*
 
-I'm on a mission to become a well-rounded software engineer. I love building things for the web — from clean UIs to solid back-end logic — and I'm always looking to sharpen my craft.
+I'm on a mission to become a well-rounded software engineer. I love building things for the web  from clean UIs to solid back-end logic  and I'm always looking to sharpen my craft.
 
 ---
 
@@ -48,6 +50,36 @@ I'm on a mission to become a well-rounded software engineer. I love building thi
 </div>
 
 ---
+## 🔥 GitHub Streak & Activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 📊 GitHub Stats Dashboard
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+</p>
 
 ### 📊 GitHub Stats
 
